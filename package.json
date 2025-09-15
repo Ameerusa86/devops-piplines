@@ -1,0 +1,22 @@
+{
+  "name": "devops-piplines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.ts",
+    "test": "node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ameerusa86/devops-piplines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ameerusa86/devops-piplines/issues"
+  },
+  "homepage": "https://github.com/Ameerusa86/devops-piplines#readme"
+}
